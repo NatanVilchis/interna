@@ -4,7 +4,7 @@
 
 Script simple para cambiar del directorio actual a la memoria interna <br>
 
-*Leer en otros lenguajes: [Español](README.md), [Inglés](README.en.md)**
+*Leer en otros lenguajes: [Español](README.md), [Inglés](README.en.md)*
 
 ![Alt text](images/interna.jpg "Interna")
  
