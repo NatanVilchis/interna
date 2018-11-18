@@ -11,7 +11,7 @@ Script simple para cambiar del directorio actual a la memoria interna <br>
  
 ## Tabla de contenido
   - [Pre-requisitos](#pre-requisitos)
-    - [Permisos de escritura activados](#permisos-de-escritura-activados)
+    - [Activar permisos de escritura](#activar-permisos-de-escritura)
     - [Instalar Git](#instalar-git)
       - [1) Instalar Git:](#1-instalar-git)
       - [2) Aceptar la instalación de Git:](#2-Aceptar-la-instalación-de-Git)
