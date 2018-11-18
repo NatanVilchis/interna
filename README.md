@@ -19,7 +19,7 @@ Script simple para cambiar del directorio actual a la memoria interna <br>
   - [Instalación](#instalación)
     - [1) Obtener interna](#1-Obtener-interna)
     - [2) Abrir la carpeta interna](#2-Abrir-la-carpeta-interna)
-    - [3) Ejecutar el script interna.sh](#3-Ejecutar-el-script-interna)
+    - [3) Ejecutar el script interna](#3-Ejecutar-el-script-interna)
   - [Ejemplo](#ejemplo)
  
 	
@@ -62,7 +62,7 @@ cd interna/interna
 ````
 <img src="images/interna_3.jpg" width="75%" alt="Ejemplo"> <br>
 
-### 3) Ejecutar el script interna.sh
+### 3) Ejecutar el script interna
 En Termux ejecutar el siguiente comando:
 ````
 bash interna.sh
