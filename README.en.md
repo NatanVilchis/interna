@@ -18,7 +18,7 @@ Simple script to change from the current directory to the internal memory <br>
       - [3) Wait until the installation finishes: ](#3-Wait-until-the-installation-finishes)
   - [Installation](#Installation)
     - [1) Get interna](#1-Get-interna)
-    - [2) Open the internal foldera](#2-Open-the-internal-folder)
+    - [2) Open the internal folder](#2-Open-the-internal-folder)
     - [3) Run script interna.sh](#3-run-script-interna)
   - [Example](#example)
  
