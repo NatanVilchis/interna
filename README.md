@@ -11,15 +11,15 @@ Script simple para cambiar del directorio actual a la memoria interna <br>
  
 ## Tabla de contenido
   - [Pre-requisitos](#pre-requisitos)
-    - [Permisos de escritura activados](#escritura-activados)
+    - [Permisos de escritura activados](#permisos-de-escritura-activados)
     - [Instalar Git](#instalar-git)
-      - [1) Instalar Git:](#instalamos-git)
-      - [2) Aceptar la instalación de Git:](#aceptar-instalacion-git)
-      - [3) Esperar hasta que la instalación termine: ](#esperar-git)
-  - [Instalación ](#instalacion)
-    - [1) Obtener interna](#obtener-interna)
-    - [2) Abrir la carpeta interna](#abrir-interna)
-    - [3) Ejecutar el script interna.sh](#ejecutar-script-interna)
+      - [1) Instalar Git:](#1-instalar-git)
+      - [2) Aceptar la instalación de Git:](#2-Aceptar-la-instalación-de-Git)
+      - [3) Esperar hasta que la instalación termine: ](#3-Esperar-hasta-que-la-instalación-termine)
+  - [Instalación](#instalacion)
+    - [1) Obtener interna](#1-Obtener-interna)
+    - [2) Abrir la carpeta interna](#2-Abrir-la-carpeta-interna)
+    - [3) Ejecutar el script interna.sh](#3-Ejecutar-el-script-interna.sh)
   - [Ejemplo](#ejemplo)
  
 	
