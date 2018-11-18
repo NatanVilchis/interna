@@ -19,7 +19,7 @@ Script simple para cambiar del directorio actual a la memoria interna <br>
   - [Instalación](#instalación)
     - [1) Obtener interna](#1-Obtener-interna)
     - [2) Abrir la carpeta interna](#2-Abrir-la-carpeta-interna)
-    - [3) Ejecutar el script interna.sh](#3-Ejecutar-el-script-interna.sh)
+    - [3) Ejecutar el script interna.sh](#3-Ejecutar-el-script-interna)
   - [Ejemplo](#ejemplo)
  
 	
