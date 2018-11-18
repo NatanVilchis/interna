@@ -10,16 +10,16 @@ Simple script to change from the current directory to the internal memory <br>
  
  
 ## Tabla de contenido
-  - [Pre-requirements](#pre-requisitos)
-    - [Enable write permissions](#escritura-activados)
-    - [Install Git](#instalar-git)
-      - [1) Instalall Git:](#instalamos-git)
-      - [2) Accept the installation of Git:](#aceptar-instalacion-git)
-      - [3) Wait until the installation finishes: ](#esperar-git)
-  - [Installation ](#instalacion)
-    - [1) Get interna](#obtener-interna)
-    - [2) Open folder interna](#abrir-interna)
-    - [3) Run script interna.sh](#ejecutar-script-interna)
+  - [Pre-requirements](#pre-requirements)
+    - [Enable write permissions](#Enable-write-permissions)
+    - [Install Git](#Install-Git)
+      - [1) Install Git:](#1-Install-Git)
+      - [2) Accept the installation of Git:](#2-Accept-the-installation-of-Git)
+      - [3) Wait until the installation finishes: ](#3-Wait-until-the-installation-finishes)
+  - [Installation](#Installation)
+    - [1) Get interna](#1-Get-interna)
+    - [2) Open folder interna](#2-Open-folder-interna)
+    - [3) Run script interna.sh](#3-run-script-interna)
   - [Example](#example)
  
 	
@@ -61,7 +61,7 @@ cd interna/interna
 ````
 <img src="images/interna_3.jpg" width="75%" alt="Interna Installation"> <br>
 
-### 3) Run script interna.sh
+### 3) Run script interna
 In Termux execute the following command:
 ````
 bash interna.sh
